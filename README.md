@@ -1,4 +1,4 @@
-# derock.blog
+# Forked from derock.dev
 
 A simple blog website built using `Solid-Start` and `Tailwind`.  
 Uses a [Notion](https://notion.site/) database as the CMS.
